@@ -1026,13 +1026,13 @@ if __name__ == '__main__':
     number_of_areas = 10
     number_of_rooms = 45
     test_mode = True
-    dataset_main = r'E:\PycharmProjects\LowPython\TestDataset'
+    dataset_main = r'E:\PycharmProjects\Procedural-PointCloudForge\TestDataset'
 
     point_densities = [10000]
     point_noises = [5]
 
     for density in tqdm(point_densities, desc="Point Densities"):
-        object_path = f'E:\PycharmProjects\LowPython'
+        object_path = f'E:\PycharmProjects\Procedural-PointCloudForge'
         for noise in tqdm(point_noises, desc="Point Noises", leave=False):
             dataset_name = f"{dataset_main}\Datasets_{noise}_{density}_final"
             for area in tqdm(range(number_of_areas-1), desc="Areas", leave=False):
