@@ -136,7 +136,7 @@ If `test_mode` is set to `True`, the script will display visualizations of the g
 
 ## Available Datasets
 
-Refer to the [Dataset Generator](https://github.com/danielflopez1/PointCloudForge/tree/main/DatasetGeneration) additionally the dataset can be downloaded [here](https://drive.google.com/drive/folders/1Mm_oXaCFNzYMCjW9fn5Y-9vCxJXCqb3N?usp=drive_link)
+Refer to the [Dataset Generator](https://github.com/danielflopez1/Procedural-PointCloudForge/tree/main/DatasetGeneration) additionally the dataset can be downloaded [here](https://drive.google.com/drive/folders/1Mm_oXaCFNzYMCjW9fn5Y-9vCxJXCqb3N?usp=drive_link)
 
 ## Customization
 
