@@ -134,6 +134,10 @@ If `test_mode` is set to `True`, the script will display visualizations of the g
 - **3D Scene Visualization**: Uses Open3D to render the generated point clouds.
 - **Scene Graph Visualization**: Uses Matplotlib and NetworkX to display the scene graph.
 
+## Available Datasets
+
+Refer to the [Dataset Generator](https://github.com/danielflopez1/PointCloudForge/tree/main/DatasetGeneration) additionally the dataset can be downloaded [here](https://drive.google.com/drive/folders/1Mm_oXaCFNzYMCjW9fn5Y-9vCxJXCqb3N?usp=drive_link)
+
 ## Customization
 
 You can customize the scene generation by modifying the `constraints.json` file and by providing your own object meshes and orientation data.
